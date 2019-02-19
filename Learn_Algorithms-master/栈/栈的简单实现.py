@@ -49,6 +49,6 @@ if __name__ == '__main__':
     print my_stack.size
     # 栈是不是空了？
     print my_stack.is_empty()
-    # 哇~真好吃~
+    # 哇~
     print 'Yummy~'
 	
